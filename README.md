@@ -1,2 +1,2 @@
 # hesapmakinesi
-Patika.dev switch-case ile hesap makinesi oluşturma
+Patika.dev switch-case kullanarak hesap makinesi oluşturma
