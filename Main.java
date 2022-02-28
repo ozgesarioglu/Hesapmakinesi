@@ -40,8 +40,7 @@ public class Main {
             default:
                 System.out.println("Hatalı bir seçim yaptınız. Lütfen doğru seçim yapınız.");
         }
-        System.out.println("Teşekkürler, sonuca ulaştık.");
-
+        
     }
 }
 
